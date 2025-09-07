@@ -1,1 +1,2 @@
 # financial_modeling
+http://logicashobo.co.jp/book/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E7%AC%AC4%E7%89%88-uses-excel/
